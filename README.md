@@ -8,7 +8,7 @@ My main tools right now are HTML5, CSS3, and JavaScript. For fast and high-quali
 
 My main focus right now is the CoffeeShop project. It’s an online store for a coffee shop, where I’m implementing a user-friendly product catalog, shopping cart, and modern styling to convey the cozy atmosphere of the establishment through the screen.
 
-##Fun facts:
+## Fun facts:
 💻 I believe that code should be just as clean as the design
 🛠 I love exploring new things
 🎓 I’m actively improving my English so I can communicate freely with developers from all over the world.
